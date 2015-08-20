@@ -1,1 +1,1 @@
-Used the a unheap plugin that makes a transition between section similar to apples up swipe. 
+Used a unheap plugin that makes a transition between section similar to apples up swipe. 
